@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ESP32_CODE.C": "cpp"
+        "ESP32_CODE.C": "cpp",
+        "LIGHT_ARDUINO.C": "cpp"
     }
 }
